@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cruises>
+	<Cruise FoundedIn="1972">
+		<ParentCompany>Carnival Corporation and plc</ParentCompany>
+		<Name>Carnival Cruise Line</Name>
+		<Reservation>
+			<Phone>1-800-764-7419</Phone>
+			<URL>https://www.carnival.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="33178">
+			<City>Miami</City>
+			<State>Florida</State>
+		</Headquarters>
+		<DeparturePorts>Los Angeles</DeparturePorts>
+	</Cruise>
+
+
+	<Cruise>
+		<ParentCompany>Carnival Corporation and plc</ParentCompany>
+		<Name>Princess Crusies</Name>
+		<Reservation>
+			<Phone>1-800-774-6237</Phone>
+			<URL>https://www.princess.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="91355">
+			<City>Santa Clarita</City>
+			<State>California</State>
+		</Headquarters>
+	</Cruise>
+
+
+	<Cruise FoundedIn="1985">
+		<ParentCompany>Royal Caribbean Group</ParentCompany>
+		<Name>Royal Caribbean Cruises</Name>
+		<Reservation>
+			<Phone>1-866-562-7625</Phone>
+			<URL>https://www.royalcaribbean.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="33178">
+			<City>Miami</City>
+			<State>Florida</State>
+		</Headquarters>
+		<DeparturePorts>Miami</DeparturePorts>
+		<DeparturePorts>Vancouver</DeparturePorts>
+	</Cruise>
+
+
+	<Cruise FoundedIn="1966">
+		<ParentCompany>Norwegian Cruise Line Holdings</ParentCompany>
+		<Name>Norwegian Cruise Line</Name>
+		<Reservation>
+			<Phone>1-866-234-0292</Phone>
+			<URL>https://www.ncl.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="33178">
+			<City>Miami</City>
+			<State>Florida</State>
+		</Headquarters>
+		<DeparturePorts>New Orleans</DeparturePorts>
+		<DeparturePorts>Miami</DeparturePorts>
+	</Cruise>
+
+
+	<Cruise FoundedIn="1991">
+		<ParentCompany>American Cruise Lines</ParentCompany>
+		<Name>str1234</Name>
+		<Reservation>
+			<Phone>1-800-894-8570</Phone>
+			<URL>https://www.americancruiselines.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="06437">
+			<City>Guilford</City>
+			<State>Connecticut</State>
+		</Headquarters>
+		<DeparturePorts>New Orleans</DeparturePorts>
+		<DeparturePorts>Memphis</DeparturePorts>
+	</Cruise>
+
+
+	<Cruise>
+		<ParentCompany>Disney Signature Experiences</ParentCompany>
+		<Name>Disney Cruise Line</Name>
+		<Reservation>
+			<Phone>1-800-951-3532</Phone>
+			<URL>https://disneycruise.disney.go.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="34747">
+			<City>Celebration</City>
+			<State>Florida</State>
+		</Headquarters>
+		<DeparturePorts>Miami</DeparturePorts>
+		<DeparturePorts>San Diego</DeparturePorts>
+		<DeparturePorts>Los Angeles</DeparturePorts>
+	</Cruise>
+
+
+	<Cruise>
+		<ParentCompany>Carnival Corporation and plc</ParentCompany>
+		<Name>Holland American Line</Name>
+		<Reservation>
+			<Phone>1-877-932-4259</Phone>
+			<URL>https://www.hollandamerica.com/en_US.html</URL>
+		</Reservation>
+		<Headquarters ZIP="10238">
+			<City>Seattle</City>
+			<State>Washington</State>
+		</Headquarters>
+		<DeparturePorts>Fort Lauderdale</DeparturePorts>
+		<DeparturePorts>San Diego</DeparturePorts>
+	</Cruise>
+
+
+	<Cruise>
+		<ParentCompany>New York Cruise Lines</ParentCompany>
+		<Name>New York Cruise Lines</Name>
+		<Reservation>
+			<Phone>1-212-563-3200</Phone>
+			<URL>https://nycl.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="10011">
+			<City>New York City</City>
+			<State>New York</State>
+		</Headquarters>
+		<DeparturePorts>Midtown Manhattan</DeparturePorts>
+		<DeparturePorts>Downtown Manhattan</DeparturePorts>
+	</Cruise>
+
+
+	<Cruise>
+		<ParentCompany>Mediterranean Shipping Company</ParentCompany>
+		<Name>MSC Crusies</Name>
+		<Reservation>
+			<Phone>1-833-271-9231</Phone>
+			<URL>https://www.msccruisesusa.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="1202">
+			<City>Geneva</City>
+			<State>Switzerland</State>
+		</Headquarters>
+		<DeparturePorts>Canaveral</DeparturePorts>
+		<DeparturePorts>Miami</DeparturePorts>
+		<DeparturePorts>New York City</DeparturePorts>
+	</Cruise>
+
+
+	<Cruise>
+		<ParentCompany>Norwegian Cruise Line Holdings</ParentCompany>
+		<Name>Oceania Cruises</Name>
+		<Reservation>
+			<Phone>1-855-623-2642</Phone>
+			<URL>https://www.oceaniacruises.com/</URL>
+		</Reservation>
+		<Headquarters ZIP="33178">
+			<City>Miami</City>
+			<State>Florida</State>
+		</Headquarters>
+		<DeparturePorts>Miami </DeparturePorts>
+		<DeparturePorts>Sidney</DeparturePorts>
+		<DeparturePorts>Los Angeles</DeparturePorts>
+	</Cruise>
+</Cruises>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CSE446_Assignment6.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="This service gets the absolute value of a number." />
+            <Label Text="Enter a number:" />
+            <Entry x:Name = "AbsoluteValue_Entry" Placeholder="" />
+            <Label x:Name ="Cache_Label" Text="" />
+            <Button x:Name ="AbsoluteValueButton" Text="Get Absolute Value" Clicked ="AbsoluteValueButton_Clicked"/>
+            <Label x:Name ="AbsoluteValue_Label"  Text="" />
+
+            <Label Text="This service generates a random string." />
+            <Button x:Name ="RandomStringButton" Text="Generate Random String" Clicked ="RandomStringButton_Clicked"/>
+            <Label x:Name ="RandomString_Label"  Text="" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

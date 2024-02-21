@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Service", "XML_Service\XML_Service.csproj", "{33FD188E-E854-4206-B0EF-FD97AE1A0272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_TryIt", "XML_TryIt\XML_TryIt.csproj", "{60099547-9F34-4617-B1D8-D2869EEB8CCB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{33FD188E-E854-4206-B0EF-FD97AE1A0272} = {33FD188E-E854-4206-B0EF-FD97AE1A0272}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33FD188E-E854-4206-B0EF-FD97AE1A0272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FD188E-E854-4206-B0EF-FD97AE1A0272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FD188E-E854-4206-B0EF-FD97AE1A0272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FD188E-E854-4206-B0EF-FD97AE1A0272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60099547-9F34-4617-B1D8-D2869EEB8CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60099547-9F34-4617-B1D8-D2869EEB8CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60099547-9F34-4617-B1D8-D2869EEB8CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60099547-9F34-4617-B1D8-D2869EEB8CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9E5F48-2BC6-48B5-8871-CCEA742A11AB}
+	EndGlobalSection
+EndGlobal
